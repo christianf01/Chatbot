@@ -14,6 +14,5 @@ A chatbot designed to assist with answering questions about the club and to crea
 The data used in this project is sourced from multiple Wikipedia pages related to IEEE. The information is programmatically extracted using the MediaWiki API. The pages include:
 
 1. [Institute of Electrical and Electronics Engineers](https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers)
-2. [IEEE 802](https://en.wikipedia.org/wiki/IEEE_802)
-3. [IEEE Standards Association](https://en.wikipedia.org/wiki/IEEE_Standards_Association)
-4. [IEEE Conferences](https://en.wikipedia.org/wiki/Category:IEEE_conferences)
+2. [IEEE Standards Association](https://en.wikipedia.org/wiki/IEEE_Standards_Association)
+3. [IEEE Conferences](https://en.wikipedia.org/wiki/Category:IEEE_conferences)
