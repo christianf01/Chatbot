@@ -15,4 +15,3 @@ The data used in this project is sourced from multiple Wikipedia pages related t
 
 1. [Institute of Electrical and Electronics Engineers](https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers)
 2. [IEEE Standards Association](https://en.wikipedia.org/wiki/IEEE_Standards_Association)
-3. [IEEE Conferences](https://en.wikipedia.org/wiki/Category:IEEE_conferences)
